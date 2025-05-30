@@ -9,4 +9,11 @@ This is a simple password generator written in Python. It allows the user to cho
 
 ## 💻 How to Run
 ```bash
+1. Make sure you have Python installed.
+2. Download or clone this repository.
+3. Open terminal/command prompt.
+4. Run the script using:
+
+```bash
 password_generator.py
+
