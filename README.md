@@ -9,4 +9,4 @@ This is a simple password generator written in Python. It allows the user to cho
 
 ## 💻 How to Run
 ```bash
-python password_generator.py
+password_generator.py
